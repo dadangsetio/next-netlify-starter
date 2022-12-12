@@ -26,7 +26,7 @@ let scene, camera, renderer, textCanvas, textCtx, particleGeometry, dummy, clock
 let flowerInstancedMesh, leafInstancedMesh, flowerMaterial, leafMaterial;
 
 // String to show
-let string = 'Flower<div>typer</div>';
+let string = 'Mufidah Happy Please yaa!!';
 
 // Coordinates data per 2D canvas and 3D scene
 let textureCoordinates = [];
